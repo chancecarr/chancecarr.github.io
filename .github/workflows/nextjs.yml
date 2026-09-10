@@ -75,7 +75,7 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
 
       - name: Inspect Environment Variables
-        run: echo "PAGES_BASE_PATH is: '${PAGES_BASE_PATH}'"
+        run: echo "PAGES_BASE_PATH is: '${{ env.PAGES_BASE_PATH }}'"
 
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
