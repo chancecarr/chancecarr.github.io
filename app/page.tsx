@@ -16,18 +16,19 @@ export default function Home() {
             </li>
             <li>DevOps: jwt-pizza
               <ul className="list-[circle] list-inside pl-5">
-                <li>Frontend Repo</li>
-                <li>Backend Repo</li>
+                <li><a className="text-sky-500 hover:text-sky-700" href="/jwt-pizza">Frontend Repo</a></li>
+                <li><a className="text-sky-500 hover:text-sky-700" href="/jwt-pizza-service">Backend Repo</a></li>
               </ul>
             </li>
-            <li>Software Architecture: tweeter</li>
-            <li>Web Development: "QuoteBoard" startup</li>
+            <li><a className="text-sky-500 hover:text-sky-700" href="/tweeter">Software Architecture: tweeter</a></li>
+            <li><a className="text-sky-500 hover:text-sky-700" href="/startup">Web Development: "QuoteBoard" startup</a></li>
+            <li><a className="text-sky-500 hover:text-sky-700" href="/chess">Full-stack chess application</a></li>
           </ul>
         </div>
         <div className="bg-white dark:bg-slate-800 rounded-lg px-6 py-4 ring shadow-xl ring-ray-900/5">
           <h2 className="text-gray-900 dark:text-white mt-5 text-3xl font-medium tracking-tight">Boot.dev Projects</h2>
           <ul className="list-disc list-inside pl-5 mt-2 space-y-1 text-gray-500 dark:text-gray-400">
-            <li>Asteroids</li>
+            <li><a className="text-sky-500 hover:text-sky-700" href="/asteroids">Asteroids</a></li>
             <li>Simple Coding AI Agent</li>
           </ul>
         </div>
