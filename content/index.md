@@ -10,11 +10,25 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's in
 
 ![Us in our graduation robes](/images/graduation.jpeg)
 
-## Repos
+## Projects
 
-- Placeholder 1
-- Placeholder 2
-- Placeholder 3
+#### BYU
+
+- Placeholder
+- Placeholder
+- Placeholder
+
+#### Boot.dev ([Link to my profile](https://www.boot.dev/u/ccarr))
+
+- [Static site generator](/static-site-generator)
+- Placeholder
+- Placeholder
+
+#### Personal
+
+- Placeholder
+- Placeholder
+- Placeholder
 
 [Resume](/documents/resume.pdf)
 
