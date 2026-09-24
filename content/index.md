@@ -12,22 +12,22 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's de
 
 ## Projects
 
-#### BYU
+### BYU
 
-- Placeholder
+- [Tweeter](/tweeter)
 - Placeholder
 - Placeholder
 
-#### Boot.dev ([link to my profile](https://www.boot.dev/u/ccarr))
+### Boot.dev ([link to my profile](https://www.boot.dev/u/ccarr))
 
 - [Static site generator](/static-site-generator)
 - Placeholder
 - Placeholder
 
-#### Personal
+### Personal
 
 - [Bassball](/bassball)
 
-[Resume](/documents/resume.pdf)
+##### [Resume](/documents/resume.pdf)
 
-[Contact me here](/contact)
+##### [Contact me here](/contact)
