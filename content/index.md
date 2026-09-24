@@ -1,6 +1,10 @@
-# Portfolio
+# Chance Carr Portfolio
 
 Thanks for checking out my portfolio!
+
+###### Link to my [Resume](/documents/resume.pdf)
+
+###### Where to [Contact me](/contact)
 
 ## About me
 
@@ -32,7 +36,3 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's de
 - [Bassball](/bassball)
 
 ### See all of my repositories [here](https://github.com/chancecarr)
-
-#### [Resume](/documents/resume.pdf)
-
-#### [Contact me](/contact)
