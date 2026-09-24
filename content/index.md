@@ -24,6 +24,7 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's de
 - Database design: [Destination recommender](/destination-recommender)
 - Full-stack application: [Chess](/chess)
 - Frontend development: [QuoteBoard](/startup)
+- [Literature review on Retrieval-Augmented Generation](/documents/Literature-Review-RAG.pdf)
 
 ### Boot.dev ([link to my profile](https://www.boot.dev/u/ccarr))
 
