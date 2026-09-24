@@ -6,7 +6,7 @@ Thanks for checking out my portfolio!
 
 ![Me and my wife at a garden](/images/garden.jpeg)
 
-My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's in computer science. My wife is currently getting a master's in ecology at the University of Utah and we are living in Salt Lake City.
+My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's degree in computer science. My wife is currently getting a master's degree in ecology at the University of Utah, and we are living in Salt Lake City.
 
 ![Us in our graduation robes](/images/graduation.jpeg)
 
@@ -18,7 +18,7 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's in
 - Placeholder
 - Placeholder
 
-#### Boot.dev ([Link to my profile](https://www.boot.dev/u/ccarr))
+#### Boot.dev ([link to my profile](https://www.boot.dev/u/ccarr))
 
 - [Static site generator](/static-site-generator)
 - Placeholder
@@ -26,9 +26,7 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's in
 
 #### Personal
 
-- Placeholder
-- Placeholder
-- Placeholder
+- [Bassball](/bassball)
 
 [Resume](/documents/resume.pdf)
 
