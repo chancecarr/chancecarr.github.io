@@ -14,4 +14,4 @@ Email me:
 
 `chancecarr1@gmail.com`
 
-Find me [on LinkedIn](https://www.linkedin.com/in/chance-carr-9a8125262/)
+Find me on [LinkedIn](https://www.linkedin.com/in/chance-carr-9a8125262/)
