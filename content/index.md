@@ -14,20 +14,25 @@ My name is Chance Carr, and I am a recent graduate from BYU with a bachelor's de
 
 ### BYU
 
-- [Tweeter](/tweeter)
-- Placeholder
-- Placeholder
+- Capstone: [Natural-language interface and tooling](/mcp-for-exp)
+- Software design/architecture: [Tweeter](/tweeter)
+- DevOps: [JWT pizza app](/jwt-pizza)
+- Database design: [Destination recommender](/destination-recommender)
+- Full-stack application: [Chess](/chess)
+- Frontend development: [QuoteBoard](/startup)
 
 ### Boot.dev ([link to my profile](https://www.boot.dev/u/ccarr))
 
 - [Static site generator](/static-site-generator)
-- Placeholder
-- Placeholder
+- [AI coding agent](/ai-agent)
+- [Asteroids](/asteroids)
 
 ### Personal
 
 - [Bassball](/bassball)
 
-##### [Resume](/documents/resume.pdf)
+### See all of my repositories [here](https://github.com/chancecarr)
 
-##### [Contact me here](/contact)
+#### [Resume](/documents/resume.pdf)
+
+#### [Contact me](/contact)
